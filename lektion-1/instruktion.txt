@@ -1,0 +1,1 @@
+I denna lektion gås HTML grunderna igenom med struktur och allt som behövs för att kunna strukturera upp en hemsida.
